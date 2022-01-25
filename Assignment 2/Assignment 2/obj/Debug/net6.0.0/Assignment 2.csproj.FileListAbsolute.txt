@@ -1,0 +1,15 @@
+F:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment 2\Assignment 2\bin\Debug\net6.0.0\Assignment 2.exe
+F:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment 2\Assignment 2\bin\Debug\net6.0.0\Assignment 2.deps.json
+F:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment 2\Assignment 2\bin\Debug\net6.0.0\Assignment 2.runtimeconfig.json
+F:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment 2\Assignment 2\bin\Debug\net6.0.0\Assignment 2.dll
+F:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment 2\Assignment 2\bin\Debug\net6.0.0\ref\Assignment 2.dll
+F:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment 2\Assignment 2\bin\Debug\net6.0.0\Assignment 2.pdb
+F:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment 2\Assignment 2\obj\Debug\net6.0.0\Assignment 2.csproj.AssemblyReference.cache
+F:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment 2\Assignment 2\obj\Debug\net6.0.0\Assignment 2.GeneratedMSBuildEditorConfig.editorconfig
+F:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment 2\Assignment 2\obj\Debug\net6.0.0\Assignment 2.AssemblyInfoInputs.cache
+F:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment 2\Assignment 2\obj\Debug\net6.0.0\Assignment 2.AssemblyInfo.cs
+F:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment 2\Assignment 2\obj\Debug\net6.0.0\Assignment 2.csproj.CoreCompileInputs.cache
+F:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment 2\Assignment 2\obj\Debug\net6.0.0\Assignment 2.dll
+F:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment 2\Assignment 2\obj\Debug\net6.0.0\ref\Assignment 2.dll
+F:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment 2\Assignment 2\obj\Debug\net6.0.0\Assignment 2.pdb
+F:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment 2\Assignment 2\obj\Debug\net6.0.0\Assignment 2.genruntimeconfig.cache
