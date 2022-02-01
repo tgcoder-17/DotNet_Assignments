@@ -1,0 +1,15 @@
+F:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-3\qus2\bin\Debug\net6.0\qus2.exe
+F:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-3\qus2\bin\Debug\net6.0\qus2.deps.json
+F:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-3\qus2\bin\Debug\net6.0\qus2.runtimeconfig.json
+F:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-3\qus2\bin\Debug\net6.0\qus2.dll
+F:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-3\qus2\bin\Debug\net6.0\ref\qus2.dll
+F:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-3\qus2\bin\Debug\net6.0\qus2.pdb
+F:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-3\qus2\obj\Debug\net6.0\qus2.csproj.AssemblyReference.cache
+F:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-3\qus2\obj\Debug\net6.0\qus2.GeneratedMSBuildEditorConfig.editorconfig
+F:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-3\qus2\obj\Debug\net6.0\qus2.AssemblyInfoInputs.cache
+F:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-3\qus2\obj\Debug\net6.0\qus2.AssemblyInfo.cs
+F:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-3\qus2\obj\Debug\net6.0\qus2.csproj.CoreCompileInputs.cache
+F:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-3\qus2\obj\Debug\net6.0\qus2.dll
+F:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-3\qus2\obj\Debug\net6.0\ref\qus2.dll
+F:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-3\qus2\obj\Debug\net6.0\qus2.pdb
+F:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-3\qus2\obj\Debug\net6.0\qus2.genruntimeconfig.cache
