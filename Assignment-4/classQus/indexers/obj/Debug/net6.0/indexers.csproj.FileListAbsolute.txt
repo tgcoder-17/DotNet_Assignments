@@ -1,0 +1,15 @@
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-4\classQus\indexers\bin\Debug\net6.0\indexers.exe
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-4\classQus\indexers\bin\Debug\net6.0\indexers.deps.json
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-4\classQus\indexers\bin\Debug\net6.0\indexers.runtimeconfig.json
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-4\classQus\indexers\bin\Debug\net6.0\indexers.dll
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-4\classQus\indexers\bin\Debug\net6.0\ref\indexers.dll
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-4\classQus\indexers\bin\Debug\net6.0\indexers.pdb
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-4\classQus\indexers\obj\Debug\net6.0\indexers.csproj.AssemblyReference.cache
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-4\classQus\indexers\obj\Debug\net6.0\indexers.GeneratedMSBuildEditorConfig.editorconfig
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-4\classQus\indexers\obj\Debug\net6.0\indexers.AssemblyInfoInputs.cache
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-4\classQus\indexers\obj\Debug\net6.0\indexers.AssemblyInfo.cs
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-4\classQus\indexers\obj\Debug\net6.0\indexers.csproj.CoreCompileInputs.cache
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-4\classQus\indexers\obj\Debug\net6.0\indexers.dll
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-4\classQus\indexers\obj\Debug\net6.0\ref\indexers.dll
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-4\classQus\indexers\obj\Debug\net6.0\indexers.pdb
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-4\classQus\indexers\obj\Debug\net6.0\indexers.genruntimeconfig.cache

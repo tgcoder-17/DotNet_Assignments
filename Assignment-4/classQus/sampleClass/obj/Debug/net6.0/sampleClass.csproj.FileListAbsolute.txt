@@ -1,0 +1,15 @@
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-4\classQus\sampleClass\obj\Debug\net6.0\sampleClass.csproj.AssemblyReference.cache
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-4\classQus\sampleClass\obj\Debug\net6.0\sampleClass.GeneratedMSBuildEditorConfig.editorconfig
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-4\classQus\sampleClass\obj\Debug\net6.0\sampleClass.AssemblyInfoInputs.cache
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-4\classQus\sampleClass\obj\Debug\net6.0\sampleClass.AssemblyInfo.cs
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-4\classQus\sampleClass\obj\Debug\net6.0\sampleClass.csproj.CoreCompileInputs.cache
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-4\classQus\sampleClass\bin\Debug\net6.0\sampleClass.exe
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-4\classQus\sampleClass\bin\Debug\net6.0\sampleClass.deps.json
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-4\classQus\sampleClass\bin\Debug\net6.0\sampleClass.runtimeconfig.json
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-4\classQus\sampleClass\bin\Debug\net6.0\sampleClass.dll
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-4\classQus\sampleClass\bin\Debug\net6.0\ref\sampleClass.dll
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-4\classQus\sampleClass\bin\Debug\net6.0\sampleClass.pdb
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-4\classQus\sampleClass\obj\Debug\net6.0\sampleClass.dll
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-4\classQus\sampleClass\obj\Debug\net6.0\ref\sampleClass.dll
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-4\classQus\sampleClass\obj\Debug\net6.0\sampleClass.pdb
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-4\classQus\sampleClass\obj\Debug\net6.0\sampleClass.genruntimeconfig.cache
