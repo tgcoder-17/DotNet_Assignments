@@ -1,0 +1,15 @@
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-5\obj\Debug\net6.0\Assignment-5.csproj.AssemblyReference.cache
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-5\obj\Debug\net6.0\Assignment-5.GeneratedMSBuildEditorConfig.editorconfig
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-5\obj\Debug\net6.0\Assignment-5.AssemblyInfoInputs.cache
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-5\obj\Debug\net6.0\Assignment-5.AssemblyInfo.cs
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-5\obj\Debug\net6.0\Assignment-5.csproj.CoreCompileInputs.cache
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-5\bin\Debug\net6.0\Assignment-5.exe
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-5\bin\Debug\net6.0\Assignment-5.deps.json
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-5\bin\Debug\net6.0\Assignment-5.runtimeconfig.json
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-5\bin\Debug\net6.0\Assignment-5.dll
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-5\bin\Debug\net6.0\ref\Assignment-5.dll
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-5\bin\Debug\net6.0\Assignment-5.pdb
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-5\obj\Debug\net6.0\Assignment-5.dll
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-5\obj\Debug\net6.0\ref\Assignment-5.dll
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-5\obj\Debug\net6.0\Assignment-5.pdb
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-5\obj\Debug\net6.0\Assignment-5.genruntimeconfig.cache
