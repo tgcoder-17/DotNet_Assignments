@@ -1,0 +1,15 @@
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\collection\bit_array\bin\Debug\net6.0\bit_array.exe
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\collection\bit_array\bin\Debug\net6.0\bit_array.deps.json
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\collection\bit_array\bin\Debug\net6.0\bit_array.runtimeconfig.json
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\collection\bit_array\bin\Debug\net6.0\bit_array.dll
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\collection\bit_array\bin\Debug\net6.0\ref\bit_array.dll
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\collection\bit_array\bin\Debug\net6.0\bit_array.pdb
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\collection\bit_array\obj\Debug\net6.0\bit_array.csproj.AssemblyReference.cache
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\collection\bit_array\obj\Debug\net6.0\bit_array.GeneratedMSBuildEditorConfig.editorconfig
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\collection\bit_array\obj\Debug\net6.0\bit_array.AssemblyInfoInputs.cache
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\collection\bit_array\obj\Debug\net6.0\bit_array.AssemblyInfo.cs
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\collection\bit_array\obj\Debug\net6.0\bit_array.csproj.CoreCompileInputs.cache
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\collection\bit_array\obj\Debug\net6.0\bit_array.dll
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\collection\bit_array\obj\Debug\net6.0\ref\bit_array.dll
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\collection\bit_array\obj\Debug\net6.0\bit_array.pdb
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\collection\bit_array\obj\Debug\net6.0\bit_array.genruntimeconfig.cache

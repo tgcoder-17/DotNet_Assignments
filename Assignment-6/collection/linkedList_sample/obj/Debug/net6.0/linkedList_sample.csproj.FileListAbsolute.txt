@@ -1,0 +1,15 @@
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\collection\linkedList_sample\bin\Debug\net6.0\linkedList_sample.exe
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\collection\linkedList_sample\bin\Debug\net6.0\linkedList_sample.deps.json
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\collection\linkedList_sample\bin\Debug\net6.0\linkedList_sample.runtimeconfig.json
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\collection\linkedList_sample\bin\Debug\net6.0\linkedList_sample.dll
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\collection\linkedList_sample\bin\Debug\net6.0\ref\linkedList_sample.dll
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\collection\linkedList_sample\bin\Debug\net6.0\linkedList_sample.pdb
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\collection\linkedList_sample\obj\Debug\net6.0\linkedList_sample.csproj.AssemblyReference.cache
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\collection\linkedList_sample\obj\Debug\net6.0\linkedList_sample.GeneratedMSBuildEditorConfig.editorconfig
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\collection\linkedList_sample\obj\Debug\net6.0\linkedList_sample.AssemblyInfoInputs.cache
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\collection\linkedList_sample\obj\Debug\net6.0\linkedList_sample.AssemblyInfo.cs
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\collection\linkedList_sample\obj\Debug\net6.0\linkedList_sample.csproj.CoreCompileInputs.cache
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\collection\linkedList_sample\obj\Debug\net6.0\linkedList_sample.dll
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\collection\linkedList_sample\obj\Debug\net6.0\ref\linkedList_sample.dll
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\collection\linkedList_sample\obj\Debug\net6.0\linkedList_sample.pdb
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\collection\linkedList_sample\obj\Debug\net6.0\linkedList_sample.genruntimeconfig.cache
