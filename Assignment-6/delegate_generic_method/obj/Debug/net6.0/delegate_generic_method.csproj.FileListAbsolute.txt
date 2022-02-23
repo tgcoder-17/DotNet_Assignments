@@ -1,5 +1,0 @@
-G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\delegate_generic_method\obj\Debug\net6.0\delegate_generic_method.csproj.AssemblyReference.cache
-G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\delegate_generic_method\obj\Debug\net6.0\delegate_generic_method.GeneratedMSBuildEditorConfig.editorconfig
-G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\delegate_generic_method\obj\Debug\net6.0\delegate_generic_method.AssemblyInfoInputs.cache
-G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\delegate_generic_method\obj\Debug\net6.0\delegate_generic_method.AssemblyInfo.cs
-G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\delegate_generic_method\obj\Debug\net6.0\delegate_generic_method.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\delegate_generic_method\generic_method\obj\Debug\net6.0\generic_method.csproj.AssemblyReference.cache
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\delegate_generic_method\generic_method\obj\Debug\net6.0\generic_method.GeneratedMSBuildEditorConfig.editorconfig
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\delegate_generic_method\generic_method\obj\Debug\net6.0\generic_method.AssemblyInfoInputs.cache
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\delegate_generic_method\generic_method\obj\Debug\net6.0\generic_method.AssemblyInfo.cs
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\delegate_generic_method\generic_method\obj\Debug\net6.0\generic_method.csproj.CoreCompileInputs.cache
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\delegate_generic_method\generic_method\bin\Debug\net6.0\generic_method.exe
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\delegate_generic_method\generic_method\bin\Debug\net6.0\generic_method.deps.json
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\delegate_generic_method\generic_method\bin\Debug\net6.0\generic_method.runtimeconfig.json
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\delegate_generic_method\generic_method\bin\Debug\net6.0\generic_method.dll
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\delegate_generic_method\generic_method\bin\Debug\net6.0\ref\generic_method.dll
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\delegate_generic_method\generic_method\bin\Debug\net6.0\generic_method.pdb
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\delegate_generic_method\generic_method\obj\Debug\net6.0\generic_method.dll
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\delegate_generic_method\generic_method\obj\Debug\net6.0\ref\generic_method.dll
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\delegate_generic_method\generic_method\obj\Debug\net6.0\generic_method.pdb
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\Assignment-6\delegate_generic_method\generic_method\obj\Debug\net6.0\generic_method.genruntimeconfig.cache
