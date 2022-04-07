@@ -1,0 +1,15 @@
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\customerLinq\bin\Debug\net6.0\customerLinq.exe
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\customerLinq\bin\Debug\net6.0\customerLinq.deps.json
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\customerLinq\bin\Debug\net6.0\customerLinq.runtimeconfig.json
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\customerLinq\bin\Debug\net6.0\customerLinq.dll
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\customerLinq\bin\Debug\net6.0\ref\customerLinq.dll
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\customerLinq\bin\Debug\net6.0\customerLinq.pdb
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\customerLinq\obj\Debug\net6.0\customerLinq.csproj.AssemblyReference.cache
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\customerLinq\obj\Debug\net6.0\customerLinq.GeneratedMSBuildEditorConfig.editorconfig
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\customerLinq\obj\Debug\net6.0\customerLinq.AssemblyInfoInputs.cache
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\customerLinq\obj\Debug\net6.0\customerLinq.AssemblyInfo.cs
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\customerLinq\obj\Debug\net6.0\customerLinq.csproj.CoreCompileInputs.cache
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\customerLinq\obj\Debug\net6.0\customerLinq.dll
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\customerLinq\obj\Debug\net6.0\ref\customerLinq.dll
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\customerLinq\obj\Debug\net6.0\customerLinq.pdb
+G:\MSU\Sem-6\.Net\Programs\DotNet Assignments\customerLinq\obj\Debug\net6.0\customerLinq.genruntimeconfig.cache
